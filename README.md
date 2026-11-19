@@ -14,8 +14,8 @@ To write a program to predict the type of species of the Iris flower using the S
 5. Generate Confusion Matrix
 
 ## Program:
-## Name : A  Rafshaan ahmed
-## Reg. No : 212224320214
+## Name : Sanjai Ganth B
+## Reg. No : 212224320244
 ```python
 import pandas as pd
 from sklearn.datasets import load_iris
